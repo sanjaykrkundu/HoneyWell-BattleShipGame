@@ -1,0 +1,5 @@
+1 2 v submarine
+1 5 h battleship
+3 3 v carrier
+4 7 v destroyer
+6 6 h cruiser
